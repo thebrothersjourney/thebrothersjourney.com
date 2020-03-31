@@ -7,7 +7,7 @@ return [
     'logo' => '/assets/images/jigsaw-casper-logo.png',
 
     'icon' => '/assets/images/jigsaw-casper-icon.png',
-
+	 'image' => '/assets/images/awesome-cover.jpg',
     'collections' => [
     // Posts collection sorted by date and in descending order (latest post at the top)
         'posts' => [
