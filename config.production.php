@@ -2,5 +2,5 @@
 
 return [
     'production' => true,
-    'baseUrl' => 'https://jigsaw-casper.netlify.com'
+    'baseUrl' => 'https://thebrothersjourney.com'
 ];

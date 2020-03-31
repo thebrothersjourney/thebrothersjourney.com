@@ -28,13 +28,13 @@ return [
     'perPage' => 10,
 
     // The name of the site
-    'siteName' => 'Jigsaw Casper',
+    'siteName' => 'The Brother\'s Journey',
 
     // The description of the site. This is used in for the site's default metadata
-    'siteDescription' => 'Static sites for modern developers',
+    'siteDescription' => 'Everything starts with a seed',
 
     // The name of the site Author. Your name!
-    'siteAuthor' => 'Rick',
+    'siteAuthor' => 'Quoc',
 
     // Tinyletter subscribe Url
     'subscribe' => 'https://tinyletter.com/',
