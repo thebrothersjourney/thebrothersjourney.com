@@ -2,13 +2,14 @@
 extends: _layouts.post
 section: content
 title: Getting Started
-date: 2019-01-21
-subtitle: Getting started with the Jigsaw Casper starter template
-image: /assets/images/getting-started.jpg
-tags: [getting-started]
+date: 2018-12-25
+description: Getting started with the Jigsaw blog starter template
+cover_image: /assets/img/post-cover-image-2.png
+featured: true
+categories: [configuration]
 ---
 
-This is a starter template for creating a beautiful, customizable blog with minimal effort. You’ll only have to change a few settings and you’re ready to go.
+This is a starter template for creating a beautiful, customizable blog with minimal effort. You’ll only have to change a few settings and you’re ready to go.<!-- more -->
 
 ## Configuration
 
@@ -29,7 +30,7 @@ return [
 
 ---
 
-## Adding Content
+### Adding Content
 
 You can write your content using a [variety of file types](http://jigsaw.tighten.co/docs/content-other-file-types/). By default, this starter template expects your content to be located in the `source/_posts/` folder.
 
@@ -40,16 +41,16 @@ The top of each content page contains a YAML header that specifies how it should
 extends: _layouts.post
 section: content
 title: Getting Started
-date: 2019-01-21
+date: 2018-12-25
 description: Getting started with the Jigsaw blog starter template
-image: /assets/images/post-bg.jpg
+cover_image: /assets/img/post-cover-image-2.png
+featured: true
 ---
 ```
 
----
-## Adding Assets
+### Adding Assets
 
-Any assets that need to be compiled (such as JavaScript, Less, or Sass files) can be added to the `source/_assets/` directory, and Laravel Mix will process them when running `yarn run local` or `yarn run production`. The processed assets will be stored in `/source/assets/build/` (note there is no underscore on this second `assets` directory).
+Any assets that need to be compiled (such as JavaScript, Less, or Sass files) can be added to the `source/_assets/` directory, and Laravel Mix will process them when running `npm run local` or `npm run production`. The processed assets will be stored in `/source/assets/build/` (note there is no underscore on this second `assets` directory).
 
 Then, when Jigsaw builds your site, the entire `/source/assets/` directory containing your built files (and any other directories containing static assets, such as images or fonts, that you choose to store there) will be copied to the destination build folders (`build_local`, on your local machine).
 
@@ -69,5 +70,5 @@ Now that you’ve edited your configuration variables and know how to customize 
 
 # compile assets with Laravel Mix
 # options: dev, staging, production
-yarn run dev
+npm run dev
 ```

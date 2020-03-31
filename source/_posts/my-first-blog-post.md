@@ -1,10 +1,10 @@
 ---
 extends: _layouts.post
-title: My First Blog Post
-subtitle: Where the fun begins 😎! 
-date: 2018-09-09
 section: content
-image: /assets/images/locked.jpg
+title: My First Blog Post
+date: 2017-03-23
+description: This is your first blog post.
+cover_image: /assets/img/post-cover-image-2.png
 ---
 
 This is the start of your first blog post.
