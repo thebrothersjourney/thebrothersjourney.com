@@ -78,9 +78,3 @@ Now I can focus on writing blogs and creating images to go with it. The rest of 
 For now, I am happy with the flexibility of Jigsaw and the default theme. There will be changes as I learn new things, but fingers crossed 🤞 I’ll be more consistent with this blog. 
 
 Keep your eyes open for more content as I bash my keyboard ⌨️ and hopefully produce decent content for you. 
-
-
-
-
-
-#blog
