@@ -6,7 +6,7 @@ return [
     'baseUrl' => '',
     'production' => false,
     'siteName' => 'The Brother\'s Journey',
-    'siteDescription' => 'Growing the planted seeds',
+    'siteDescription' => 'Growing the planted seed',
     'siteAuthor' => 'Quoc',
 
     // collections
