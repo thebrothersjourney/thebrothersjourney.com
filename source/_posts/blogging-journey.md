@@ -12,7 +12,7 @@ You may not know this, but this blog has gone through a lot of revisions to get 
 
 <img src="/assets/img/wordpress-and-bluehost.jpg">
 
-This blog first started out as a [Wordpress](https://wordpress.org) installation hosted on [BlueHost](https://bluehost.com). I was naive and followed the instructions from a blog which promoted blogging as a career. 
+This blog first started out as a <a href="https://wordpress.org" target="_blank">Wordpress</a> installation hosted on <a href="https://bluehost.com" target="_blank">BlueHost</a>. I was naive and followed the instructions from a blog which promoted blogging as a career. 
 
 Personally, I don’t mind Wordpress, but it was overkill for my needs and I could never get the performance I was after. I spent countless hours optimising, but could never get a good score with the website tests. 
 
@@ -42,7 +42,7 @@ Over the years I have really put a focus on documentation. Look I’m not a fan 
 
 Markdown allows me to rapidly create documents without thinking about how things will look. I can just focus on writing documents and let someone else deal with how it looks. 
 
-Today all my notes are in markdown even if the editor doesn’t support it. So my second attempt at blogging I was smarter and did some research on getting a blog running as cheap as possible. This was achieved with [GitHub Pages](https://pages.github.com) and [Jekyll](https://jekyllrb.com). 
+Today all my notes are in markdown even if the editor doesn’t support it. So my second attempt at blogging I was smarter and did some research on getting a blog running as cheap as possible. This was achieved with <a href="https://pages.github.com" target="_blank">GitHub Pages</a> and <a href="https://jekyllrb.com" target="_blank">Jekyll</a>. 
 
 My total hosting costs were an astounding $15 a year. That’s just to register my domain. Hosting fees... GONE. GitHub Pages allows you to host static sites for FREE. 🎉
 
@@ -58,9 +58,9 @@ I would highly recommend GitHub Pages and Jekyll for anyone on a budget and want
 
 <img src="/assets/img/netlify-and-jigsaw.jpg">
 
-This is my current setup and what you are currently seeing. [Jigsaw](https://jigsaw.tighten.co) is another static site generator, but it is based on [Laravel](https://laravel.com) my favourite PHP framework. I have been recently getting into DevOps at work and loving continuous integration and continuous deployment (CI/CD). 
+This is my current setup and what you are currently seeing. <a href="https://jigsaw.tighten.co" target="_blank">Jigsaw</a> is another static site generator, but it is based on <a href="https://laravel.com" target="_blank">Laravel</a> my favourite PHP framework. I have been recently getting into DevOps at work and loving continuous integration and continuous deployment (CI/CD). 
 
-[Netlify](https://www.netlify.com) is a hosting company with a great free tier. So again my only costs are domain renewal fees (unless this blog takes off like a rocket ship 🚀). Using CI/CD workflow makes my life easy. 
+<a href="https://netlify.com" target="_blank">Netlify</a> is a hosting company with a great free tier. So again my only costs are domain renewal fees (unless this blog takes off like a rocket ship 🚀). Using CI/CD workflow makes my life easy. 
 
 	1. Write a post in markdown.
 	2. Create some images.
