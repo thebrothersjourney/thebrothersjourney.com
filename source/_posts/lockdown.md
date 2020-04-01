@@ -1,12 +1,11 @@
-————————
+---
 extends: _layouts.post
 section: content
-title: Lockdown
-date: 2020-03-01
-image: /assets/images/lockdown-cover.jpg
-————————
-🦠 = 🌏 + 🔐 COVID-19 puts the world into lockdown
-
+title: 🦠 = 🌏 + 🔐 COVID-19 puts the world into lockdown
+date: 2020-03-01 
+description: Lockdown, ghost towns and taking my first step.
+cover_image: /assets/img/lockdown-cover.jpg
+---
 👋 Welcome, it’s great to have you here. 
 
 As the COVID-19 spreads across the world and our lives are suddenly put on hold with major disruptions across all business we have now suddenly found ourselves isolated from each other.

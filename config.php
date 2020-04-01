@@ -6,13 +6,13 @@ return [
     'baseUrl' => '',
     'production' => false,
     'siteName' => 'The Brother\'s Journey',
-    'siteDescription' => 'Growing the planted seed',
+    'siteDescription' => 'My journey to a better life',
     'siteAuthor' => 'Quoc',
 
     // collections
     'collections' => [
         'posts' => [
-            'author' => 'Quoc', // Default author, if not provided in a post
+            'author' => 'Author Name', // Default author, if not provided in a post
             'sort' => '-date',
             'path' => 'blog/{filename}',
         ],
